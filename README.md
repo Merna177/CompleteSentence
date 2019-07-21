@@ -1,2 +1,2 @@
 # CompleteSentence
-complete the sentence using rnn
+complete the sentence using RNN (get familiar with RNN)
